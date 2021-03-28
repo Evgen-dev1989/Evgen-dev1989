@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Evgen-dev1989
+-
+- 👀 I’m interested in  new interesting people
+- 🌱 I’m currently learning  javascript, git and python
+- живу в Киеве 
